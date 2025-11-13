@@ -4,5 +4,23 @@
     "name": "raju",
     "age": 30,
     "department": "police"
+  },
+  {
+    "id": 2,
+    "name": "kuttu",
+    "age": 20,
+    "department": "teacher"
+  },
+  {
+    "id": 3,
+    "name": "lipu",
+    "age": 60,
+    "department": "pedo"
+  },
+  {
+    "id": 4,
+    "name": "mittu",
+    "age": 92,
+    "department": "chukku"
   }
 ]
